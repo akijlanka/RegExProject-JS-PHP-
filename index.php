@@ -26,7 +26,7 @@
         <div class="col-2"></div>
         <div class="col-8">
             <h3 style="margin: 0px">Customer Form</h3>
-            <form action="" style="padding-top: 20px" id="myForm" onsubmit="return Validation();">
+            <form action="" style="padding-top: 20px" id="getForm" onsubmit="return Validation();">
                 <div class="form-group">
                     <label for="exampleInputEmail1">CID</label>
                     <input type="text" class="form-control" id="inputCID" placeholder="C000">
